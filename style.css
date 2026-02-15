@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(193, 205, 216);
+}
+
+.pic-container{
+    width: 200px;
+    height: 350px;
+    overflow: hidden;
+    border-radius: 10%;
+}
+
+.pic{
+    width: 200px;
+    height: 350px;
+    display: block;
+    margin-bottom: 0px;
+    position: relative;
+    border-radius: 10%;
+    top:-50px;
+}
+
+.profileinfo{
+    padding-left: 22vw;
+}
+
+.profileinfo a{
+    margin-right: 1%;
+}
+
+h1{
+    margin-top: 5%;
+}
+
+.leftpad{
+    margin-left: 0.5%;
+}
+
+.links{
+    margin-top: -3%;
+}
+
+.desc{
+    padding-left: 19.1vw;
+    width: 20vw;
+}
